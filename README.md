@@ -1,4 +1,4 @@
 python-snippets
 ===============
 
-Personal python snippets for reference.
+Personal python snippets for personal reference.
